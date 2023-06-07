@@ -1,1 +1,6 @@
 
+1)When the list is SMALL. As the time complexity of the selection sort is O(N2) which makes it inefficient
+for a large list.
+
+
+2)When memory space is limited because it makes the MINIMUM POSSIBLE NUMBER OF SWAPS during sorting.
