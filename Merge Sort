@@ -1,0 +1,15 @@
+1)Merge sort is used when the data structure doesn’t support random access since it works with pure 
+  sequential access that is forward iterators, rather than random access iterators.
+
+2)It is widely used for external sorting, where random access can be very, very expensive compared to
+  sequential access.
+
+3)It is used where it is known that the data is similar data.
+
+4)Merge sort is fast in the case of a linked list.
+
+5)It is used in the case of a linked list as in a linked list for accessing any data at some index we need 
+  to traverse from the head to that index and merge sort accesses data sequentially and the need of random 
+    access is low.
+
+6)The main advantage of the merge sort is its stability, the elements compared equally retain their original order.
